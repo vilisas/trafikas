@@ -1,0 +1,81 @@
+2023-11-25 Trafikas
+Trafiką veda Tadas, LY2BAW
+Užsiregistravo: 38
+
+Oficiali informacija:
+
+16d įvyko LRMD pasitarimas:
+ Įvyko susitikimas su RRT tarybos pirmininko pavaduotoju Darium Kuliešium, jei kas turit klausimų RRT - parašykit Valerijui LY2QT arba LRMD valdybai.
+ Iškelti klausimai:
+   Dėl radijo mėgėjiškų būrelių stiprinimo švietimo įstaigose;
+   UTB;
+   Radijo mėgėjų nebeaktyvių šaukinių perdavimas;
+   Galimybė atnaujinti B ir A kategorijų klausimyną;
+Patvirtinti TB varžybų rezultatai.
+Kvietimas į VNS Kaune, 2024 Vasario 3 dieną.
+
+Klubų naujienos:
+LY2QT (nesigirdi)
+
+LY2ON:
+ Įvyko Švyturio klubo susirinkimas, susirinko 16 žmonių. Atstatytas klubo paramos gavėjo statusas. Klubas turi pirmą klubo narę.
+ LY6L klubo nariams papasakojo apie DMR.
+ 
+
+Trumpos bangos:
+
+TB varžybos:
+ CQ Worldwide DX Contest, CW. Vyksta 48 valandas.
+ UTB ARRL EME contest.
+ Vyksta rusų SSB Ham Spirit contest. Viltys, kad LY nedalyvaus.
+
+Kito savaitgalio TB varžybos:
+ ARRL 160-Meter Contest. CW, 160m Only
+ Kalbar Contest. SSB, 80, 40, 20, 15, 10m
+ PRO CW Contest. CW, 80, 40, 20, 15, 10m
+ INORC Contest. CW, 80, 40, 20, 15m
+ FT Roundup. FT8/FT4, 80, 40, 20, 15, 10m
+ SEC QSO Party (mokykliniai klubai)
+ UFT Meeting. CW, 80, 40, 20, 15, 10m
+ 
+DX Informacija:
+ 4W8X, 160m, labai gerai girdimas, girdi irgi gerai. https://www.dx-world.net/4w8x-timor-leste/
+ 3B9/M0CFW darbą baigia.
+ VK9XY. Christmas Island, By YL2GM EA5EL fm IOTA OC-002; 160-10m; CW SSB FT8; Dirbs iki 27 d.
+ FW5N. Wallis Island
+ H44WA, Solomon Island. By WA7CPA, N7QT N7JP N9ADG NU7J WC7Q fm Guadacanal I (IOTA OC-047); 160-10m; CW SSB FT8
+ XW4DX, Laos, By F4BKV F4HAU F2DX F5PTM F8AVK; 160 40 20 17 15 12 10m; CW SSB + digital; QSL via Club Log OQRS (preferred) or F4BKV direct
+ 7O73T, Yemen. By RA9USU fm Socotra I; HF incl. 60m; mainly CW, some FT8; QRV for CQWW DX CW
+ ZL7IO, https://www.dx-world.net/zl7io-chatham-islands/
+ 9L5M, Sierre Leone, By M0KRI; 80-6m; FT8 CW SSB; QSL via Club Log OQRS or G3SVK
+ 5H3FM, Tanzania, By HB0DSP; HF; SSB FM FT8; 100w; QSL via HB9DSP (B/d)
+ TO9W, St Martin, By K9NU N9EP FS4WBS W9AP K9EL; 160-6m; CW SSB FT8 FT4 RTTY; QSL via Club Log OQRS
+ YJ0CA, Vanuatu, By VK2YUS fm Port Vila; 40-10m; SSB; wires, verticals; see qrz.com for QSL details
+
+Būsimos ekspedicijos:
+ 5R8VE, Madagascar, By F4EZG fm Nosy Faly I (IOTA AF-057); 20-10m; SSB FT8
+ VK9CY, Cocos (Keeling) Island, By YL2GM EA5EL. 29.Nov - 7.Dec.2023
+ 3W9C, Vietnam, By SP5APW fm Con Son I (IOTA AS-130); 20 17 15 10 6m; SSB FT8, some CW; FT8 on 6m; tx 53.313 or 53.323, rx 50.313 or 50.323; 100w
+ D4DX, Cape Verde, By E77DX; 40-6m; also QRV as part of the D4C CQWW DX CW team
+ K8R, Swains Island, By HA7RY HA5YG fm AH48lw; HF, mainly 160m; mainly CW; RIB; QRV for CQWW DX CW; QSL via HA7RY
+ HR9/K6VHF, Honduras, By K6VHF as HR9/K6VHF; 40-6m; CW SSB FT8 FT4
+ HQ9X, Honduras, By K1XM KQ1F W1UE N9NC NG7A; QRV in CQWW DX CW, ARRL 160m (first night), and FT Roundup; Will be QRV on FT4/8 with an emphasis on JA Qs after the contest
+
+UTB:
+ CT9/EA8DBM dirba gigahercuose EME
+ UT1FG/MM
+ 4W8X EME, visais 50 MHz - 1.3 GHz, LOC: PI21GK, dirbs iki lapkričio 27 d. Dirbs ir 60m diapazone.
+ 
+Bangų sklidimai:
+ Meteorai krenta:
+  Orionidai 3 m/h
+  Puppd/Velid Gruodžio 01-15.
+
+ Tropo sklidimai Europos pietuose.
+ Saulė aktyvi. Buvo serija aurorų.
+ 
+73!
+
+Sauce:
+https://www.contestcalendar.com/
+https://www.ng3k.com/misc/adxo.html
