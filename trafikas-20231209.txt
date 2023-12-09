@@ -1,0 +1,88 @@
+2023-12-09 Trafikas
+Trafiką veda Tadas, LY2BAW
+Užsiregistravo: 44
+
+Oficiali informacija:
+ LY2QT:
+  Gruodžio 19 d. bus apsilankymas RRT, jei turit idėjų - parašykit LY2QT. Prašymas susimokėti LRMD nario mokestį.
+  2024 Vasario 3 d. vyks VNS.
+ 
+ LY1RD negauna atsakymo iš iždininko dėl sumokėto nario mokesčio už 2024 metus.
+  Iždininkas atostogauja.
+  LRMD tinklapyje yra iždininko skyrelis, kur galima pasižiūrėti informaciją apie mokėjimus.
+  LY2BAW nusiskundė, kad LRMD valdybos nariai irgi nemoka nario mokesčio.
+
+Klubų naujienos:
+ Nėra.
+
+Trumpos bangos:
+ TB varžybos:
+  ARRL 10-Meter Contest: 0000Z, Dec 9 to 2400Z, Dec 10
+  PODXS 070 Club Triple Play Low Band Sprint: 0000Z, Dec 9 to 2359Z, Dec 11
+  TRC Digi Contest: 0600Z, Dec 9 to 1800Z, Dec 10
+  SKCC Weekend Sprintathon: 1200Z, Dec 9 to 2400Z, Dec 10
+  ARI 40/80 Contest: 1300Z, Dec 9 to 1300Z, Dec 10
+  International Naval Contest: 1600Z, Dec 9 to 1559Z, Dec 10
+  QRP ARCI Holiday Spirits Sprint: 2000Z-2300Z, Dec 10
+  Walk for the Bacon QRP Contest: 0000Z-0100Z, Dec 7 and 0200Z-0300Z, Dec 8
+  NCCC FT4 Sprint: 0100Z-0130Z, Dec 8
+  NCCC RTTY Sprint: 0145Z-0215Z, Dec 8
+ 
+ Kito savaitgalio TB varžybos:
+  Feld Hell Sprint,     0000Z-2359Z, Dec 16
+  OK DX RTTY Contest,   0000Z-2400Z, Dec 16
+  Croatian DX Contest,	1400Z, Dec 16 to 1400Z, Dec 17
+  ARRL Rookie Roundup, CW,	1800Z-2359Z, Dec 17
+  
+DX Informacija:
+ XT2AW, Burkina Faso,       By DF2WO fm Ouagadougou; HF; CW SSB FT4 FT8; 100w
+ V47JA, St Kitts & Nevis,   By W5JON fm Calypso Bay; 160-6m; SSB FT8; yagi, verticals; QSL also OK via W5JON direct
+ V6EU,  Micronesia,         By DL2AWG DK2AMM DL2AMD DF4GV fm Chuuk I (IOTA OC-011); 160-10m, perhaps 6m; SSB CW RTTY FT8; QSL via Club Log OQRS or DL2AWG
+ PZ5NH, Surinam,            By JA0JHQ; HF; CW SSB FT8; QSL via JA0JHQ direct
+ VU7A,  Lakshadweep,        By W4VKU fm IOTA AS-106; 160-6m; SSB FT8
+ KL7RRC,St Paul Island,     Tim NL8F, Alex KL5CX and Yuri N3QQ. 80 - 10m, CW, SSB, Digital modes. Rusijos robinzonų klubo ekspedicija į Aliaskos labai nutolusias salas
+ T32TT, East Kiribati,      By Rebel DX Group; 160-6m; focus on FT8 FT4 some CW SSB. LY2BAW niekaip jų neprisišaukia.
+ VP2VMM,British Virgin Is,  By Team Vertical; mainly 20-10m; CW SSB + digital; QRV for ARRL 10m Contest
+ PZ5NH, Surinam,            By JA0JHQ; HF; CW SSB FT8; QSL via JA0JHQ direct
+ 8P9BH, Barbados,           By GM0PWS; 40 20 10m; SSB
+ JD1YCE,Ogasawara,          By Kansai Okinawa Ham Club ops; HF + 6m; QSL via Club Log OQRS or JA3AVO direct
+
+Būsimos ekspedicijos:
+ D44MCS,Cape Verde Is,      By OE3MCS fm Sal I (IOTA AF-068); 40-10m, perhaps 6m; SSB CW, perhaps FT8 and RTTY; QSL via OE3MCS
+ VP9/DK7PE, Bermuda,        By DK7PE as VP9/DK7PE; HF; CW
+ VU4N, Andaman & Nicobar,   By W4VKU; 160-6m; SSB FT8
+ ZD7CA, St Helena,          By HB9FIY fm IOTA AF-022; 40-10m; SSB + digital
+ J8TT, St Vincent,          By PA2LO fm Ratho Mill (IOTA NA-109 (IOTA NA-109)); 40-10m; SSB CW FT8; QSL via PA2LO Buro or Club Log OQRS
+ 3B9AT, Rodrigues Island,   By IK3ZAQ IV3JVJ fm IOTA AF-017; 40-10m; CW SSB FT8; QSL via IV3JVJ
+
+UTB:
+ Bangų sklidimai:
+  Geri sklidimai baigėsi - nei ES, nei Tropo. Šiuo metu galima dirbt per metorus.
+
+ Meteorai:
+   Monocerotidai,   Gruodžio 9 d.,  3 ZHR (Zenithal Hourly Rate - meteorai per valandą).
+   σ-Hydrid,        Gruodžio 12 d., 7 ZHR
+   Geminidai,       Gruodžio 14 d., 120 ZHR (iki 150). Galimi ryšiai netgi SSB.
+   Comae Berenicid, Gruodžio 16 d., 3 ZHR
+ Aurora buvo Gruodžio 1 d.
+
+ EME:
+  Slopinimas EME vis dar mažas, augs nuo 11 d. 
+  Gruodžio 15-25 d. bus geriausias EME sklidimas.
+
+ Kvietimas antradieniais dalyvauti aktyvumo vakaruose.
+
+ Skelbimai - pranešimai:
+ LY5O kviečia po trafiko padaryt ryši su LY23XMAS 
+ LY1CT klausia apie darbą FT8. Kas yra dirbant F/H režimu prierašas prie įvertinimo a2 ar a3. Tadas paaiškina, kad tai yra deep decode nuspėjamas dekodavimo rezultatas.
+ LY5CB parduoda TB stiprintuvą su 3x GU50.
+
+73!
+
+Transkripcija: 
+LY3FF
+
+Šaltiniai:
+https://www.contestcalendar.com/
+https://www.ng3k.com/misc/adxo.html
+https://in-the-sky.org/
