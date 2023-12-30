@@ -1,4 +1,4 @@
-YYY-MM-DD Trafikas
+YYYY-MM-DD Trafikas
 Trafiką veda Vardas, CALL
 Užsiregistravo: 
 
