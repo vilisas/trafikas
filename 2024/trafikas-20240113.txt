@@ -1,0 +1,69 @@
+2024-01-13 Trafikas
+Trafiką veda Bronius, LY5O
+Užsiregistravo: 43
+
+Oficiali informacija:
+ LY2QT:
+  Kvietimas vasario 3 d. 10 val. atvykti į LRMD VNS Kaune, Aukštaičių 43, Kauno Vandenyse. Gali būti svečių iš RRT.
+ 
+ VNS galima bus įsigyti radijo mėgėjų etikos ir darbo eteryje kodeksą. Knygos leidėjai: Simonas LY2EN, Barbora LY1KB, Saulius LY1VP, Božena Kareivė, Rugilė Ramanauskaitė.
+ Knygelė yra ON4UN ir ON4WW knygos vertimas. Leidinį galima įsigyti ir iš Broniaus, LY5O.
+ Šaukinių, kurių licencija baigia galioti sąrašas (RRT info):
+ LY1FAC LY2SS LY2BI LY2BBO LY2GW LY2CH LY3RZ LY5R LY2JI LY2GB LY2CB LY3QT LY2DW LY3CW LY3BHC LY2MM LY1ST LY2BBZ LY2KB LY2BGA LY4LK LY1LY LY2FB LY2SV LY3GG LY5EZ LY2BOK LY1AGU LY2GO LY1CY 
+
+Klubų naujienos:
+ Eteryje skamba šaukiniai LY310KD, LY13LY
+ 
+Trumpos bangos:
+ Bangų sklidimo sąlygos neblogos
+
+TB varžybos:
+ NRAU Baltic Contest, kuriame dalyvauja šiaurės Europos šalys + Baltijos valstybės. https://www.nraubaltic.eu/:
+  NRAU-Baltic Contest, SSB: 0630Z-0830Z, Jan 14. 80, 40m. 3600-3650/3700-3775 KHz; 7050-7100/7130-7200 KHz
+  NRAU-Baltic Contest, CW:  0900Z-1100Z, Jan 14. 80, 40m. 3510-3560 KHz; 7010-7060 KHz
+  Ataskaitą reikia užkrauti: https://logs.nraubaltic.eu/
+
+ Yra gauti 2023 metų CQ žurnalo DX maratono preliminarūs pareikšti rezultatai.
+ Paskelbti WAG varžybų rezultatai. KTU RK užima antrąją vietą Europos klubų tarpe. https://www.dxhf2.darc.de/~waglog/user.cgi?fc=loglist&form=referat&lang=en
+
+ YB DX Contest: 0000Z-2359Z, Jan 13, SSB. 80, 40, 20, 15, 10m. http://ybdxcontest.com
+ DARC 10-Meter Contest: 0900Z-1059Z, Jan 14. CW, SSB. 10m Only. https://www.darc.de/der-club/referate/conteste/darc-10m-contest/regeln/
+ K1USN Slow Speed Test: 0000Z-0100Z, Jan 15
+ SKCC Weekend Sprintathon: 1200Z, Jan 13 to 2400Z, Jan 14
+ North American QSO Party, CW: 1800Z, Jan 13 to 0559Z, Jan 14
+ WAB 1.8 MHz Phone: 1900Z-2300Z, Jan 13
+
+Kito savaitgalio TB varžybos:
+ NTC QSO Party: 1900Z-2000Z, Jan 18
+ NAQCC CW Sprint: 0130Z-0330Z, Jan 18
+ Hungarian DX Contest: 1200Z, Jan 20 to 1159Z, Jan 21
+ PRO Digi Contest: 1200Z, Jan 20 to 1159Z, Jan 21
+ RSGB AFS Contest, SSB: 1300Z-1700Z, Jan 20
+ North American QSO Party, SSB: 1800Z, Jan 20 to 0559Z, Jan 21
+
+Diplomai:
+ 12-14 d. dirbs: OZ24QUEEN, OY24QUEEN, OX24QUEEN
+ 14-16 d. dirbs: OZ24KING, OY24KING, OX24KING
+
+DX Informacija:
+ 
+  2023 Dec16	2024 Jan13	St Helena, ZD7CA. By HB9FIY fm IOTA AF-022; 80-10m, incl 60m; SSB + digital
+  2024 Jan16	2024 Feb04	St Helena, ZD7Z. By IV3FSG fm Jamestown (IOTA AF-022 IH74ga); 160-6m, incl 60m; SSB CW RTTY FT8 FT4; vertical, inverted L; QSL via IK2DUW
+  2024 Jan11	2024 Jan25	St Kitts & Nevis, V4/N4RF. By N4RF as V4/N4RF; @V7JA; HF; CW FT8, some SSB; 100w; holiday style operation; QSL via N4RF direct w/ SASE
+  2024 Jan12	2024 Jan18	Palau, T88AQ, T88HS, T88RH, T88SM. By JH6WDG as T88AQ, JA6KYU as T88HS, JR6DRH as T88RH, JA6EGL as T88SM fm Koror; 160-10m; CW SSB FT8; QSL per operator's instructions
+  2024 Jan12	2024 Jan20	Ethiopia, ET3AA. By W9XY K4ZW; HF QSL via N2OO
+
+ Būsimos ekspedicijos:
+
+  2024 Jan18	2024 Feb01	Clipperton I	TX5S. By team fm IOTA NA-011 (DK50jh); 160-6m, incl 60m; SSB CW RTTY FT8; dates subject to change; see Web for full QSL details
+  VK0AI, https://dxnews.com/vk0ai/
+  C6ABJ, Bahamas
+  VP2MDX, Monsterrat
+  DU3/W6QT, Oceania
+ 
+Kaune 6 laipsniai šalčio.
+
+73!
+
+https://www.contestcalendar.com/weeklycont.php
+https://www.ng3k.com/misc/adxo.html
