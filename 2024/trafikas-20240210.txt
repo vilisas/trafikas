@@ -1,0 +1,142 @@
+2024-02-10 Trafikas
+Trafiką veda Tadas, LY2BAW
+Užsiregistravo: 45
+
+Širvintose -2 'C
+
+Oficiali informacija:
+ LY2QT: (triukšmingas signalas)
+  VNS susirinko 44 nariai.
+
+  Išrinkta nauja LRMD Valdyba:
+   LRMD Prezidentu pakartotinai išrinktas Valerijus LY2QT
+   Valdybos pirmininko pavaduotojas - Rolandas LY4Q
+   Sekretorius - Saulius LY1VP
+   Iždininkas - Linas LY5AT
+   TB Menedžeris - Mindaugas LY4L
+   UTB Menedžeris - Olegas LY3UE
+   Rytų ir Vilniaus atstovas - Rolandas LY4Q
+   Pietų ir Kauno atstovė - Karolina LY5XX
+   Vakarų Lietuvos atstovas - Rimantas (Šaukinys nenurodytas)
+   Šiaurės Lietuvos atsotvas - Valerijus LY2QT
+  
+ Prieš VNS vyko Valdymos posėdis, kuriame nuspręsta praplėsti koordinatorių sąrašą.
+ Panaikinta IT administratoriaus pareigybė.
+ Išplėstas dvylikos koordinatorių sąrašas, nuspręsta, kad bus šios pareigybės:
+  viešųjų ryšių (PR) koordinatorius
+  LY Sąskrydžių koordinatorius
+  LYAC ataskaitų roboto techninis administratorius
+  LRMD oficialaus tinklalapio lrmd.lt techninis administratorius
+  QRZ diskusijų forumo forum.qrz.lt veiklos moderatorius, gali būt ne vienas.
+  QRZ diskusijų platformos forum.qrz.lt techninis administratorius
+  Hamradio Lietuvoje enciklopedijos hamradio.lt veiklos moderatorius 1+
+  Hamradio Lietuvoje enciklopedijos hamradio.lt techninis administratorius
+  LHFA WAL LYFF aktyvuotojų ryšių žurnalo qso.qrz.lt veiklos koordinatorius
+  LHFA WAL LYFF aktyvuotojų ryšių žurnalo qso.qrz.lt techninis administratorius
+  LRMD veiklos apskaitos ir LRMD užklausų valdymo sistemų techninis administratorius
+  QRZ serverio prieigų administratorius.
+
+  LRMD trafikų koordinatorius - Tadas LY2BAW
+  
+ Kvietimas klubams, asociacijoms ir visiems radijo mėgėjams pravesti šeštadieninį trafiką
+ 
+Klubų naujienos:
+ LY2QT:
+  Šiauliečiai kviečia norinčius prisijungti prie LY11LY komandos. Norinčius kreiptis į LY2QT.
+  
+Trumpos bangos:
+
+ LY4L:
+  2023 CQ WW 10 LY šaukinių yra Europos TOP 10, 9 Šaukiniai - pasaulio TOP dešimtukuose.
+  LY9A
+  LY5G
+  LY4L
+  LY7Z
+  LY1MW
+  LY4T
+  LY7X
+  LY2OU
+  LY4A
+  LY2TS
+  LY4ZZ/LY2BMX 4L5O 80m HP pirma vieta Europoje ir Pirma vieta pasaulyje
+
+ Yra preliminarūs NRAU Baltic rezultatai.
+  #1 CW   HP EE7A
+  #1 SSB  HP ES7A
+  #1 CW   LP LY9A
+  #3 CW   LP LY4L
+  #5 CW   LP LY2A
+  #7 CW   LP LY2BKT
+  #2 SSB  LP LY4L
+  #3 SSB  LP LY9A
+  #5 SSB  LP LY2BKT
+  #10 SSB LP LY5GT
+  #1  Mix LP LY9A
+
+TB varžybos:
+ CQ WW RTTY WPX Contest: 0000Z, Feb 10 to 2359Z, Feb 11
+ FISTS Saturday Sprint: 0000Z-2359Z, Feb 10
+ Asia-Pacific Spring Sprint, CW: 1100Z-1300Z, Feb 10
+ SKCC Weekend Sprintathon: 1200Z, Feb 10 to 2400Z, Feb 11
+ KCJ Topband Contest: 1200Z, Feb 10 to 1200Z, Feb 11
+ Dutch PACC Contest: 1200Z, Feb 10 to 1200Z, Feb 11
+ OMISS QSO Party: 1500Z, Feb 10 to 1500Z, Feb 11
+ RSGB 1.8 MHz Contest: 1900Z-2300Z, Feb 10
+ Balkan HF Contest: 1300Z-1700Z, Feb 11
+
+Kito savaitgalio TB varžybos:
+
+ Vasario 16-tosios varžybos 9 val. Lietuvos laiku. Trys turai.
+  CW:  3510 - 3600 kHz
+  SSB: 3600 - 3700 kHz
+  Viename ture galimas tik 2 QSO, vienas CW, kitas - SSB.
+  Ataskaitas siųsti iki vasario 23 d. adresu: vytis@qrz.lt
+  Nuostatai: qrz.lt/vytis
+  
+ ARRL Inter. DX Contest, CW: 0000Z, Feb 17 to 2400Z, Feb 18
+ YLRL YL-OM Contest: 0000Z, Feb 17 to 2359Z, Feb 18
+ Feld Hell Sprint: 1900Z-2059Z, Feb 17
+ FISTS Sunday Sprint: 0000Z-2359Z, Feb 18
+ Run for the Bacon QRP Contest: 2300Z, Feb 18 to 0100Z, Feb 19
+ OK1WC Memorial (MWC): 1630Z-1729Z, Feb 19
+ 
+ 
+DX Informacija:
+ CB0ZA
+ 5X1XA
+ A31DL, A31DK
+ V26CV
+ ZD7W
+ 5X7O
+ 7O2WX
+ H44MS
+ FW8GC
+ TX7GC
+ 8R7X
+ 7H4AYL
+ 3B8/OK6DJ
+ XV9WJR
+ 8R7X
+ 
+UTB:
+ 
+Bangų sklidimai:
+ Užfiksuotas tropo bangų sklidimas.
+ Meteorai:
+  Meteorų srautai minimalūs.
+ EME:
+  Sklidimas tobulas, slopinimas mažiausias.
+  HS60RAST dirba iš OK03. Iki kovo 10d. tik EME
+  P4/PE1ITR dirbs MS ir TROPO, tik 2m
+
+LY1CT:
+ Japonai įrengė CW švyturį, 437.41 MHz
+
+Skelbimai - pranešimai:
+ LY4LK aktyvuos likusius 4 Kauno fortus ir vieną Alytaus fortą.
+
+https://www.contestcalendar.com/weeklycont.php
+https://www.ng3k.com/misc/adxo.html
+https://www.arrl.org/news/the-first-amateur-radio-station-on-the-moon-js1ymg-is-now-transmitting
+
+73!
