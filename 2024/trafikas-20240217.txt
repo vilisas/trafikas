@@ -1,0 +1,60 @@
+2024-02-17 Trafikas
+Trafiką veda Kęstutis, LY1CT
+Užsiregistravo: 40
+
+Klaipėdoje 2'C
+
+Oficiali informacija:
+ LRMD Puslapyje paskelbtas VNS protokolas.
+ LY2QT:
+  Padėka LY5AT ir LY2MM už tvarkingai sudėliotą protokolą.
+  Vasario 22 d. bus pirmasis Valdybos posėdis
+  Pirmas išplėstinis posėdis vyks Kovo 21 d. 20 val. ZOOM arba kitoje platformoje. Prašymas radijo klubams: dalyvauti prezidentams arba deleguoti klubo atstovą.
+  Prašymas susimokėti nario mokestį.
+
+ LRMD Metinis mokestis paliktas toks pats (20€).
+ Prašymas skirti 1.2% paramos LRMD
+  
+Klubų naujienos:
+ LY2QT:
+  Kovo mėn. aktyvuojamas LY11LY, visi kviečiami prisijungti prie komandos, kreiptis į LY2QT.
+  
+Trumpos bangos:
+ Bangų sklidimas neblogas. Saulės aktyvumas mažesnis.
+ 
+TB varžybos:
+ ARRL Inter. DX Contest, CW:    0000Z, Feb 17 to 2400Z, Feb 18. Atsirado papildoma kategorija
+ Feld Hell Sprint:              1900Z-2059Z, Feb 17
+ YLRL YL-OM Contest:            0000Z, Feb 17 to 2359Z, Feb 18
+  
+DX Informacija:
+ Juan Fernandez     CB0ZA  By NP4G HI3R XQ3SK AB5EB AD5A W8HC N2IC fm IOTA SA-005; 160-6m; SSB CW RTTY FT8 + EME; QSL via N2OO direct w/ 2USD + SASE; dates subject to change;
+                           https://cb0za.com/. CB0ZA, CB0ZW, CB0ZEW  
+ Guyana             8R7X   By M0SDV DK6SP DJ4MX HA8RT; 160-6m; CW SSB FT8 RTTY; QSL via M0OXO OQRS
+ Cayman             ZF2EZ  By W5SJ; HF Bands, CW, QRP.
+ Benin              TY2AA  By IK7WUL; 40 - 10m, SSB only.
+ Uganda             5X7O
+ Mauritius          3B8/OH1NA By OH1NA as 3B8/OH1NA; HF; CW SSB FT8 FT4
+ Zanzibar           5H4AYL Sysa, OM4AYL will be active as 5H4AYL from Pemba Island, IOTA AF - 063, Zanzibar, Tanzania, 18 - 28 February 2024.
+                           She will operate on HF Bands.
+ Greenland          OX     By OZ7AM as OX7AM, OZ5DM and OZ7AKT likewise, fm Kangerlussuaq; OZ7AM QRV in ARRL DX CW; HF; CW FT8 SSB; see qrz.com for QSL details
+ Guadeloupe         TO1Q   By F1ULQ; @FG8OJ; HF + 6m; SSB + digital; QSL via F1ULQ (B/d)
+ V21KO
+ 
+UTB:
+ LY2BAW:
+  Apie Mėnulyje nusileidusį zondą:
+   Aparatas perdavinėja radijo mėgėjiškus signalus į žemę. Zondas nusileido ne visai taip, kaip planuota, dėl to saulės baterijos veikia nelabai efektyviai.
+   Aparato EIRP 1W, antena +20dB. QRG: 437.410 MHz, CALL: JQ1YMG, Mode: CW 
+   Pasiklausyti galima čia: http://websdr.camras.nl:8901
+   
+Skelbimai:
+ LY2BAW kviečia perskaityti LRMD VNS protokolą, įsigilinti į tikslus.
+ 
+73!
+
+Nuorodos:
+ https://lrmd.lt/sekretorius/doc/vns_20240203.pdf
+ https://www.ng3k.com/misc/adxo.html
+ https://www.contestcalendar.com/weeklycont.php
+ http://websdr.camras.nl:8901
