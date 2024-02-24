@@ -1,0 +1,70 @@
+2024-02-24 Trafikas
+Trafiką veda Tadas, LY2BAW
+Užsiregistravo: 38
+
+Širvintose viskas plaukia ir kvepia pavasariu.
+Tylos minute pagerbtas SK Julius Kivakas, LY2TB
+
+Oficiali informacija:
+ Kvietimas perskaityti VNS protokolą ir LRMD tikslus.
+ LY2QT:
+   Naujoji valdyba posėdžiavo ketvirtadienį.
+   Kitas posėdis kovo 21 d, formatas: Valdyba + koordinatoriai. Posėdžiai vyks kiekvieno mėnesio trečios pilnos savaitės ketvirtadienį. 
+   Bus patariamieji posėdžiai su klubų atstovais, klubų atstovai kviečiami dalyvauti.
+   Prašymas skirti 1.2% GPM paramos.
+
+Klubų naujienos:
+  LY2QT:
+    Suformuota LY11LY komanda.
+
+Trumpos bangos:
+  Baigėsi Vasario 16 varžybų ataskaitų siuntimui skirtas laikas, gautos ne visos ataskaitos.
+  
+Varžybų kalendorius:
+  CQ 160-Meter Contest, SSB: 2200Z, Feb 23 to 2200Z, Feb 25
+  LABRE-RS Digi Contest: 0000Z, Feb 24 to 2059Z, Feb 25
+  REF Contest, SSB: 0600Z, Feb 24 to 1800Z, Feb 25
+  UBA DX Contest, CW: 1300Z, Feb 24 to 1300Z, Feb 25  
+  World Wide Patagonia DX Contest: 0000Z-2359Z, Feb 25
+  South Carolina QSO Party: 1500Z, Feb 24 to 0159Z, Feb 25
+  North American QSO Party, RTTY: 1800Z, Feb 24 to 0559Z, Feb 25
+  NA Collegiate Championship, RTTY: 1800Z, Feb 24 to 0559Z, Feb 25
+
+  ARRL Inter. DX Contest, SSB: 0000Z, Mar 2 to 2400Z, Mar 3
+
+  Papildymas: 
+  High Speed Club CW Contest: 1400Z-1700Z, Feb 25. Pasikeitę nuostatai.
+
+DX Informacija:
+ Guyana             8R7X        By M0SDV DK6SP DJ4MX HA8RT; 160-6m; CW SSB FT8 RTTY; QSL via M0OXO OQRS. Darbą baigia.
+ Wallis & Futuna    FW8GC       By LZ1GC as FW8GC and LZ5QZ and TX8GC fm Wallis I (IOTA OC-054); 160-10m; CW SSB RTTY FT8 FT4. Sugedo PA.
+ Senegal            6W7/ON4AVT  By ON4AVT as 6W7/ON4AVT fm Warang; 80-10m; FT8
+ Juan Fernandez     CB0ZA       By NP4G HI3R XQ3SK AB5EB AD5A W8HC N2IC fm IOTA SA-005; 160-6m; SSB CW RTTY FT8 + EME; QSL via N2OO direct w/ 2USD + SASE; 
+                                dates subject to change; see Web for full QSL details
+ Solomon Is	        H44MS       By DL2GAC fm QI01hp; 160-6m; SSB FT8; 800w; QRV for CQ 160m SSB; QRV holiday style until Apr 29
+ Sint Maarten	    PJ7/        By DM7HB as PJ7/DM7HB and DM2PF as PJ7/DM2PF; 20 15 10m; 100w; ground-plane; may use proper PJ7 call signs
+
+ ARRL International DX Contest, CW (Feb 17-18, 2024):
+   TF, V47JA, 5R8BV, 5H4AYL. FW8, A35, PJ7, H40WA
+
+UTB:
+  Vyksta antradieniniai UTB aktyvumo vakarai.
+  
+ Bangų sklidimai:
+  Tropo nėra, Auroros mūsų nekabino.
+  Magnetinis srautas ramus, K indeksas žemas.
+  
+ Meteorai:
+  Ypatingų srautų nėra.
+  
+ EME:
+  Iki kovo 10 d. 2m EME dirba HS60RAST, iš kvadrato OK03
+  EME bangų sklidimas iki mėnesio pabaigos neblogas.
+
+
+73!
+Nuorodos:
+ https://lrmd.lt/sekretorius/doc/vns_20240203.pdf
+ https://www.ng3k.com/misc/adxo.html
+ https://www.contestcalendar.com/weeklycont.php
+ https://www.rast.or.th/
