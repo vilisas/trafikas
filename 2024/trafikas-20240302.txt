@@ -1,0 +1,39 @@
+By LY2EN:
+
+LY5O kviečia trafikui. 1/2
+
+Pradedame 9 šių metų susitikimą. Kaune gražiai šviečia saulė, 5 laipsniai šilumos.
+
+Jau antra kalendorinio pavasario diena, vedėjo sveikinimai.
+
+Bangų sklidimo sąlygos: SFI 153 (per 24h nukrito 11) K3 A9. Šių skaičių išaiškinimas yra Telegram žinutėje aukščiau https://t.me/c/1903710747/2940
+
+Oficiali informacija. Lietuva šį mėnesį mini Lietuvos nepriklausomybės atkūrimo 34 metines - pažymėdami šią datą dirbs LY11LY LY34A.
+
+Taipogi LRMD interneto puslapyje paskelbtas Valdybos posėdžio protokolas, kuris vyko vasario 22 d. elektroniniu būdu. Darbotvarkėje aptarti 3 klausimai (nurodyta protokole). https://lrmd.lt/sekretorius/doc/2024-VP-08-E.pdf - kovo 21 d. organizuojamas išplėstinis posėdis su koordinatoriais, aktyviais nariais ir klubų atstovais (bent du kartus per metus).
+
+Dainius LY4OO informuoja, jog šių metų sąskrydžio vieta yra patvirtinta. Sąskrydis vyks liepos paskutinį savaitgalį, šiais metais organizuoja Utenos krašto radijo mėgėjų klubas Omas. Sąskrydžio vieta prie Gruodžio ir Duobio ež., apie 15 km nuo Molėtų. Galima ruoštis, kviesti užsienio draugus ir visus radijo mėgėjus.
+
+Trumpų bangų informacija: 425 reflektoriuje paskelbta, jog reformuojami UK šaukiniai. Antras prefikso žymuo, pvz W - Wales, J - Jersey tampa neprivalomas. Šaukinių turėtojai, kurių prefiksas prasideda 2, privalo naudoti būtinai, kiti - pasirinktinai. Anglijos mėgėjų stotys gali naudoti E kaip antrą prefikso žymenį, pvz GE1ABC. Kai kurie RM po sufikso gali pridėti bet kokį simbolį kuris jiems patinka ir kuris identifikuoja stotį (dar neišaiškinta, tačiau leidžiama). Svarbus pakeitimas - UK radijo mėgėjai vietoje ankstesnių 400W maksimalaus galingumo gali naudoti max 1000W. Patys radijo mėgėjai sako, jog radijo stotys kurios dalyvauja varžybose, ieško DX'ų ir nori būti identifikuojamos, naudos šiuos žymenis savo priklausomybei DXCC vienetui parodyti. Plačiau https://www.425dxn.org/index.php?op=wmail
+
+Clublog sistemoje savaitės rinkinyje yra išfiltruoti ryšiai pagal moduliacijos rūšis - dažniausiai naudojama FT8 moduliacija (54% ryšių), antroje - SSB (15,8%), trečioje vietoje - FT4 (13%) ir CW (13 %) ir RTTY (2,7%). Likusios moduliacijos užima tik 1% ryšių. Daugiausiai pagal Clublog naudojamas 10m diapazonas, antroje vietoje 20m, trečioje - 40 m diapazonas, ketvirtoje 15m ir penktoje - 12m diapazone. 
+
+Varžybų informacija. Paskelbti CQ WW CW 2023 turo rezultatai. Iš viso LY dalyvavo 63 stotys. Daug stočių pateko į dešimtukus ir du nugalėtojus: LY0UKR Algis LY7M (1st world 160m diapazone HP assisted). 4L0G dirbo Algis LY2BMX buvo pirmas pasaulyje 80m diapazone HP. Antras world buvo LY9A dirbęs QRP kategorijoje, taip pat 15m QRP antra vieta LY2OU. 20m QRP antra vieta LY1FW. Antrą vietą QRP 160m užėmė LY4T. https://cqww.com/raw.htm?mode=cw . Klubų įskaitoje BCC klubas užėmė 11 vietą, KTU RC užėmė 28 vietą, VDU RK užėmė 80-ą vietą. Diskvalifikuotos viso 9 stotys. 
+
+Savaitgalį vyko ARRL DX SSB turas (48h), nauja kategorija - Limited Antenna Overlay (galima pareikšti kad dirbama su vieno elemento antena - vertikalas, EFD, dipolis, etc. ne aukščiau kaip 15m aukštyje). Nepamirškite pateikti ataskaitos https://contest-log-submission.arrl.org/
+
+2/2
+
+Savaitgalį vyks daug varžybų: BERU CW, SKCC weekend sprintathon CW, EA PSK63 contest, SA 10m contest CW/SSB, AGCW QRP Contest, 160m Stew Perry TopBand challenge, Oklahoma / Idaho / Wisconsin QSO party, Tesla Memorial CW ir YOTA Contest CW/SSB https://www.ham-yota.com/contest/
+
+DX informacija. Nuo 5d iki 13d iš Jamaikos dirbs G4SGX/6Y tik CW, nuo 80m iki 10m. Nuo kovo 9d iš Langkawi A058 iš Vakarų Malaizijos dirbs Jacek 9W/SP5APW SSB ir FT8 nuo 20m iki 10m, tačiau pagrindinis dėmesys bus skiriamas 6m band (4el yagis ir QSL bus per Clublog, LoTW arba per biurą). Kovo ir balandžio mėn dirbs DL75AFUG DL75AFUV ir DP75AFUG pažymėdami 75 metų pirmų įstatymų, reglamentuojančių radijo mėgėjų veiklą Vokietijoje sukaktį. Iki balandžio 30d. iš Dominikos respublikos dirba HI180RD, pažymi 180 Dominikos respublikos nepriklausomybės metines. Už 1 QSO galima gauti sertifikatą (atsisiųsti). Kambodžoje iki 15d dirba XU7GNY (DL7BO) visais diapazonais ir darbo rūšimis. Wallis & Futuna dirba iki kovo 9 d. FW8GC (all bands/modes). Benine TY5C dirba keli operatoriai visą kovo mėn., visi diapazonai, visos darbo rūšys, QSL tiesiogiai F5RAV. Sint Maartine dirbs PJ7AA telegrafu, FT8, FT4 op. AA9A.
+
+UTB informacija: savaitgalį buvo IARU R1 UTB all bands nuo 144. Šiandien (kovo 7d.) paskutinė diena pateikti ryšių žurnalams.
+
+Skelbimai, pranešimai: 
+
+LY2RD keičia FT817 keičia į IC-703 su priemoka, kreiptis romas59 @ gmail.com, 
+
+LY3J Zigfridas: metai spaudžia pečius, užbaigta konstrukciška veikla. Dovanoja radijo detales ir instrukcijas susidomėjusiems. tel. 869843709
+
+Trafikas baigtas, dalyvavo 48 radijo stotys - gražios dienos, 73!
