@@ -1,0 +1,89 @@
+2024-04-06 Trafikas
+Trafiką veda Bronius, LY5O
+Užsiregistravo: 45
+
+Širvintose 10.5 laipsnių, lynoja.
+
+Bangų sklidimo sąlygos:
+ SFI=121
+ A=12
+ K=3
+ 
+Oficiali informacija:
+ LY2QT:
+  Oficialus kreipimasis iš RRT - klausimas dėl proginių radijo šaukinių suteikimo apibrėžimo.
+  Posėdžio "Valdyba + Koordinatoriai" protokolas patalpintas LRMD svetainėje.
+  Ukrainos Radijo Federacijos viceprezidentas kreipėsi su iniciatyva eteryje paminėti Lietuvos-Lenkijos-Ukrainos brigados dešimtmetį. Gal yra norinčių kuruoti šią iniciatyvą?
+  Už QTC atsakingas LY2VO, iki hamfesto jis paruoš QTC leidinį. Gal kas nori pasidalinti pasiekimais ar kokia informacija ?
+
+ Nuo balandžio 15 iki gegužės pabaigos skambės šaukinys LY20EU. Šaukinys skirtas Lietuvos įstojimo į ES dvidešimtmečiui.
+
+Klubų naujienos:
+ Klubai tyli.
+
+Trumpos bangos:
+
+ Vakar paskelbti CQ žurnalo organizuojamo DX maratono 2023 rezultatai.
+ Maratonas labai išaugo stojus vadovauti Markui WC3W. Maratono dalyvių skaičius išaugo nuo 1200 iki 1800. Maratone padarytų ryšių skaičius išaugo nuo 200 000 iki 350 000.
+ Daugiausia ryšių padaryta skaitmena - apie 70%, CW ir SSB teko po 15%.
+ 17m. #3 LY5M
+ 60m. #2 LY2FN
+ Lietuvoje:
+  Unlimited #1 LY5O
+  Limited   #1 LY2KM
+  Formula 100W #1 LY2PAD
+  DIGI      #1 LY2KM
+ Klubai:
+  VDU RK #27 iš 161
+ Jaunimo tarpe:
+  VL7PIA surinko 280 taškų.
+ 
+ Paskelbti YOTA 2024 pirmo turo rezultatai. Antras turas vyks Liepos 20 dieną, trečias jau tik gruodį.
+ Jaunimas nedalyvavo. 
+ SO ALL BAND Lietuvoje #1 LY2J
+ SO 3 BAND   Lietuvoje #! LY3AB
+ Viso iš Lietuvos dalyvavo 8 stotys.
+ 
+ Paskelbti Worked all Europe DC 2023 RTTY rezultatai. 4 vieta atiteko LY5W SO HP kategorijoje.
+ Paskelbti CQ WPX RTTY 2024 rezultatai.
+ Paskelbti Vengrijos HA-DX 2024 rezultatai.
+ 
+Jubiliejai:
+ Ispanų radijo mėgėjų sąjunga švenčia 75 metų jubiliejų. Eteryje ta proga skamba 20 proginių šaukinių su prefiksu AO75/, CQ 75 ORE. Akcija vyks visą mėnesį 160m - 13cm diapazonuose.
+ Moldavai mini savo organizacijos 30-metį, dirba specialiu šaukiniu ER30ARM.
+ Balandžio 18 - pasaulinė radijo mėgėjų dieną. 1925 m. balandžio 18 d. įsteigta IARU organizacija. Šia proga iš įvairių šalių dirba spec. radijo stotys.
+ Šį mėnesį minimos NATO įkūrimo jubiliejinės metinės, šia proga nuo dirba PA75NATO, PA75OTAN.
+ Guglielmo Marconi 150 gimimo metinės. Šia proga ypatingas aktyvumas iš Italijos radijo mėgėjų.
+
+ TB varžybos:
+  EA RTTY Contest: 1200Z, Apr 6 to 1200Z, Apr 7.  80, 40, 20, 15, 10m
+  SP DX Contest:   1500Z, Apr 6 to 1500Z, Apr 7.  160, 80, 40, 20, 15, 10m
+  YBDXPI SSB Contest: 0000Z, Apr 6 to 2359Z, Apr 7
+  Georgia State Parks on the Air: 1200Z, Apr 6 to 2359Z, Apr 7
+  RSGB FT4 International Activity Day: 1200Z, Apr 6 to 1200Z, Apr 7
+  Louisiana QSO Party: 1400Z, Apr 6 to 0200Z, Apr 7
+  Mississippi QSO Party: 1400Z, Apr 6 to 0200Z, Apr 7
+  Missouri QSO Party: 1400Z, Apr 6 to 0400Z, Apr 7 and 1400Z-2000Z, Apr 7
+  WAB 3.5/7/14 MHz Data Modes: 1000Z-1400Z, Apr 7 and 1700Z-2100Z, Apr 7
+
+ Kitą savaitgalį:
+  JIDX CW Contest: 0700Z, Apr 13 to 1300Z, Apr 14
+  OK/OM DX Contest, SSB: 1200Z, Apr 13 to 1200Z, Apr 14
+
+ DX Informacija:
+  Austral Is      TX7W        By K5WE W5CCP fm Raivavae (IOTA 114); 160-6m; CW FT8 FT4 SSB RTTY; 500w; QSL via Club Log OQRS (preferred) or K5WE
+  Bhutan          A52/        By SP9FIH as A52P and SP6CIK as A52CI fm Dochula; 40-6m; SSB CW + digital
+  Liberia         A8OK        By OK1BOA OK1FCJ OK1CRM OK1GK OK2ZA OK2ZC OK2ZI OK6DJ; 160-6m; SSB CW RTTY FT8 FT4 PSK; QSL via Club Log OQRS, OK6DJ
+  Mayotte         TO4VV       By FH4VVK fm Quatier Cabaribere; HF; SSB FT8; QSL via Club Log OQRS or FH4VVK direct
+  Pitcairn        VP6G        By PG5M; 40-10m; 40-10m; CW SSB FT8
+
+ Nuo 7d:
+  South Cook Is   E51TLM      By K7TLM KD7YZE fm Rarotonga I; 10m; SSB on 28385 khz, QRS CW on 28060 khz; 5w; 1900- 0100 UTC; see qrz.com for QSL details
+
+UTB informacijos nėra.
+Skelbimų - pranešimų nėra.
+
+73!
+
+https://www.contestcalendar.com/weeklycont.php
+https://www.ng3k.com/misc/adxo.html
