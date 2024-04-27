@@ -1,0 +1,79 @@
+2024-04-27 Trafikas
+Trafiką veda Tadas, LY2BAW
+Užsiregistravo: 38
+
+Širvintose rytas gan vėsus, bet tikėtina, kad situacija ilgainiui pagerės.
+
+ SK Algimantas iš Kauno, LY2IM. 2024.01.15
+ LY3DY Algirdas iš Tauragės
+
+Oficiali informacija:
+
+ 2024.04.18 vyko nuotolinis LRMD Valdybos posėdis.
+ (ištraukos iš posėdžio protokolo, protokolas turėtų atsirasti čia: https://lrmd.lt/sekretorius/)
+ Nutarta neformuoti LY0HQ komandos.
+ Susitikimo su RRT metu buvo aptartos šios temos:
+  Leistinos spinduliuotės galia 50 MHz ruože.
+  Leistinos spinduliuotės galia 70 MHz ruože.
+  Leisto darbo dažnio darbo ribos bei darbo būdus bei mokesčių už švyturius ir retransliatorius 432 MHz ruože.
+  LRMD pateikė prašymą leisti Lietuvos radijo mėgėjams, turintiems A kategoriją, spinduliuoti 100W PEP galia 50 MHz ruože.
+  
+  LRMD pateikė prašymą leisti Lietuvos radijo mėgėjams, turintiems A klasės leidimus, spinduliuoti 50W galia PEP 70 MHz ruože. 
+  Praplėsti ruožą iki 70.1 - 70.250 MHz.
+  Panaikinti draudimą dėl antenos montavimo aukščio. Panaikinti draudimą spinduliuoti 4 km ar arčiau iki sienos su Rusija ar Baltarusija. 
+  Leisti spinduliuoti 70 MHz ruože ir naudojant skaitmenines darbo rūšis.
+  
+  LRMD prašo 430-440 naudoti ir eksploatuoti mėgėjiškus švyturius ir retransliatorius netaikant papildomų mokesčių už tokių įrenginių veiklą.
+  Suteikti teisę švyturiams spinduliuoti ne mažesne kaip 5W EIRP galia, o retransliatoriams ne mažesne kaip 15W EIRP galia.
+  
+Klubų naujienos:
+ Nėra.
+ 
+Trumpos bangos:
+
+ Varžybos:
+  SP DX RTTY Contest: 1200Z, Apr 27 to 1200Z, Apr 28
+  UK/EI DX Contest, CW: 1200Z, Apr 27 to 1200Z, Apr 28
+  Helvetia Contest: 1300Z, Apr 27 to 1259Z, Apr 28
+
+ Kito savaitgalio varžybos:
+  ARI International DX Contest: 1200Z, May 4 to 1159Z, May 5
+  F9AA Cup, PSK: 1200Z, May 4 to 1200Z, May 5
+  New England QSO Party: 2000Z, May 4 to 0500Z, May 5 and 1300Z-2400Z, May 5
+  Delaware QSO Party: 1700Z, May 4 to 2359Z, May 5
+  
+ DX:
+  Easter Is       3G0YA       By DL6FBL DK9IP DM6EE; HF; SSB CW FT8; QSL via Club Log OQRS
+  Cyprus SBA      ZC4RH       By G4WXJ fm KM64ux; 40-6m; SSB FT8 FT4; 100w; dipole; holiday style operation
+  Ogasawara       JD1BQW      By JA6VZB fm Chichijima I; focus on 12 6m; FT8; QRV for CQ WPX CW and ARRL Digial; QSL via Club Log OQRS or JA6VZB Buro
+  Niue            E6SP        By ZL3GAV; 160-6m (incl 60m); SSB FT8 FT4 SSTV, perhaps CW RTTY; holiday style operation; QSL via EA5GL or Clug Log
+  Chad            TT8RR       By team fm JK72nb; 80-6m; SSB CW RTTY FT8 (TT8XX)
+  Austral Is	  TX7W        By K5WE W5CCP fm Raivavae (IOTA 114); 160-6m; CW FT8 FT4 SSB RTTY; 500w; QSL via Club Log OQRS (preferred) or K5WE
+  Bhutan          A52         By SP9FIH as A52P and SP6CIK as A52CI fm Dochula; 40-6m; SSB CW + digital
+  Greenland       OX3LX       By OZ1DJJ fm KangerlussuaqKangerlussuaq, Nuuk, Paamiut; HF; FT8 RTTY CW Paamiut
+  Vatican         HV9TVM      By ops; 0600-1200z; 40 20m; CW SSB FT8
+  Market Reef     OJ0T        By LA1UW LA3WAA LB5SH LB0VG; 160-6m; SSB CW FT8; QSL via EA5GL
+  Vanuatu         YJ0CA       By VK2YUS fm Port Vila; 40-10m; SSB; 400w; full QSL details on qrz.com
+  Botswana        A25SHD      By HB9SHD; HF; holiday style operation
+  
+UTB:
+  HA/SP7VC dirbs ekspedicijoje nuo 04.27 - 05.05 dirbs TB ir 70 MHz diapazone. Dirbs MS ir Tropo.
+  Aurora buvo vakar. Tropo gerų nėra.
+  Visi MS srautai pasibaigė. Kitas srautas - gegužės 5d. Akvaridai apie 1 m/h. Meteorai krenta paryčiais.
+  6m diapazone bangų sklidimai užsivedinėja. Laikas pradėti klausyt ir 2m.
+  
+  EME:
+   Gegužės 3d slopinimas pataps normaliu ir išliks toks visą savaitę.
+  
+  LY2VO:
+   Balandžio 30d. 20 val kviečiami visi FM gerbėjai sudalyvauti 2 val aktyvume. Dalyvauti galima FM ir FT8. Ataskaitas siųsti LY2VO <at> QRZ LT  
+
+Skelbimai - pranešimai.
+ LY3JE: Registruojasi ir praneša apie sklidimus 2 metruose.
+ LY2YO klausia Tado telefono
+
+73!
+
+https://www.contestcalendar.com/weeklycont.php
+https://www.ng3k.com/misc/adxo.html
+https://lrmd.lt/sekretorius/
